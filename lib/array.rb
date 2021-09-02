@@ -8,3 +8,6 @@ puts a
 a = ['apple', 'orange', 'melon']
 
 puts a
+
+puts a.size
+
